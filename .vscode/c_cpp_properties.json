@@ -1,0 +1,28 @@
+{
+  "configurations": [
+    {
+      "browse": {
+        "databaseFilename": "${default}",
+        "limitSymbolsToIncludedHeaders": false
+      },
+      "includePath": [
+        "/home/ee346-1/catkin_ws/devel/include/**",
+        "/opt/ros/melodic/include/**",
+        "/home/ee346-1/catkin_ws/src/beginner_tutorials_w/include/**",
+        "/home/ee346-1/catkin_ws/src/beginner_tutorials_y/include/**",
+        "/home/ee346-1/catkin_ws/src/line_follower_turtlebot/include/**",
+        "/home/ee346-1/catkin_ws/src/raspicam_node/include/**",
+        "/home/ee346-1/catkin_ws/src/turtlebot3_simulations/turtlebot3_fake/include/**",
+        "/home/ee346-1/catkin_ws/src/turtlebot3_simulations/turtlebot3_gazebo/include/**",
+        "/home/ee346-1/catkin_ws/src/turtlebot3/turtlebot3_slam/include/**",
+        "/usr/include/**"
+      ],
+      "name": "ROS",
+      "intelliSenseMode": "gcc-x64",
+      "compilerPath": "/usr/bin/gcc",
+      "cStandard": "gnu11",
+      "cppStandard": "c++14"
+    }
+  ],
+  "version": 4
+}
